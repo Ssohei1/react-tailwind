@@ -17,3 +17,18 @@ In this build, I focused on adding a little extra JavaScript with the `array.fil
    git clone https://github.com/Ssohei1/react-tailwind.git
    ```
 
+2. Navigate to the project directory:
+   ```bash
+   cd react-tailwind
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
